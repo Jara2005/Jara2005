@@ -1,0 +1,57 @@
+header{
+    vertical-align: middle;
+    background-image: url("img/fondo.jpg");
+    color: rgb(243, 202, 202);
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border :1px solid grey;
+    border-color: grey;
+}
+footer{
+    background-image: url("img/madera.jpg");
+    color: black;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+section article table{
+    align-content: center;
+    margin-left: 45%;
+    border : 1px solid burlywood  ;
+    margin-top: 170px;
+}
+section article h2{
+    text-align: center;
+    background-color: rgb(233, 184, 112);
+    border-radius: 30% 25% ;
+    border-color: black; 
+    border-style: ridge; 
+    width: 40%;
+    margin-left: 30%;
+    
+}
+section article p{
+    text-align: center;
+}
+section {
+    width: 40%;
+    margin-left: 28%;
+    border : 2px solid burlywood;
+    margin-top: 2%;
+
+}
+body{
+    background-color: burlywood;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+}
+section article ul{
+    list-style: circle;
+    line-height: normal;
+    margin-left: 30%;
+}
+
+
